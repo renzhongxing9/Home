@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ======
-Ren Zhongxing is now a master student at China Finance College in university of international business and economics. His main research interests are empirical asset pricing, financial risk management, financial technology and complex networks.
+Ren Zhongxing is now a master student at China School of Banking and Finance in University of International Business and Economics (UIBE). His main research interests are empirical asset pricing, financial risk management, financial technology and complex networks.
 
 Outside of academic life, his main interests are long-distance running and photography.
 
