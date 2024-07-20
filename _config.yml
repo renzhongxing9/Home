@@ -12,9 +12,9 @@ title                    : "Zhongxing Ren (任中兴)"
 title_separator          : "-"
 name                     : &name "Zhongxing Ren"
 description              : &description "student majoring in finance"
-url                      : https://academicpages.github.io  # the base hostname & protocol for your site e.g. "https://academicpages.github.io"
+url                      : https://renzhongxing9.github.io/selfwebsite/  # the base hostname & protocol for your site e.g. "https://academicpages.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "renzhongxing9/selfwebsite"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
