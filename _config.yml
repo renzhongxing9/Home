@@ -12,7 +12,7 @@ title                    : "Zhongxing Ren (任中兴)"
 title_separator          : "-"
 name                     : &name "Zhongxing Ren"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : _pages/about.md # the base hostname & protocol for your site e.g. "https://academicpages.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
