@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhongxing Ren (任中兴)"
+title                    : "Zhongxing Ren's Homepage"
 title_separator          : "-"
 name                     : &name "Zhongxing Ren"
 description              : &description "student majoring in finance"
