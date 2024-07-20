@@ -35,4 +35,6 @@ Honors and scholarships
 
 **Working Paper**
 ---
-A study on system risk cascade and contagion mechanism based on TVP-VAR time-varying complex network
+1. A study on system risk cascade and contagion mechanism based on TVP-VAR time-varying complex network. with NingZhao (赵宁) and Zhenshuang Wang (汪振双), Systems Engineering — Theory & Practice, under review.
+2. A Frozen Isolation Approach to Blocking the Wake-Up Call of Liquidity Spirals. with NingZhao (赵宁) and Jun Luo (罗俊).
+3. Pre-alarm Financial Systemic Risk Contagion Monitoring Based on Time-varying Dynamic Bayesian Complex Network. with NingZhao (赵宁) and Zhenshuang Wang (汪振双), Mathmatical Finance, Awaiting AE.
